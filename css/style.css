@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 
 
@@ -33,12 +34,12 @@
 
 /* --- Fonts --- */
 body {
-  font-family: "Montserrat";
+  font-family: "Playfair+Display";
   padding-bottom: 0px;
   background-color: rgb(236, 242, 248);
 }
 h1, h2, h3 {
-  font-family: "Montserrat";
+  font-family: "Playfair+Display";
 }
 
 .header
