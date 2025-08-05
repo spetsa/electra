@@ -34,12 +34,12 @@
 
 /* --- Fonts --- */
 body {
-  font-family: "Playfair+Display";
+  font-family: "Montserrat";
   padding-bottom: 0px;
   background-color: rgb(236, 242, 248);
 }
 h1, h2, h3 {
-  font-family: "Playfair+Display";
+  font-family: "Montserrat";
 }
 
 .header
